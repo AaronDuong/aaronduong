@@ -2770,9 +2770,4 @@ button:active,
 	#footer .copyright li:first-child {
 		margin-top: 0;
 	}
-
-	.item {
-		background: gray;
-		border: 2px solid red;
-	}
 }
